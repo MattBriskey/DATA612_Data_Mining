@@ -1,6 +1,8 @@
 # data612_data_mining
 Data 612: Data Mining
 
+![alt text](https://en.wikipedia.org/wiki/Franklin_University#/media/File:FranklinUniversitySealAsOf20180521.png "Franklin University")
+
 ***
 
 This repository includes assignments completed for Franklin University's DATA 612: Data Mining class.  This course explores the methods of analytics computing and the procedures for diagnostic and predictive analytics. Topics include data manipulation, clustering algorithms, and regression methods using programming techniques.
