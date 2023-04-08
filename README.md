@@ -20,7 +20,7 @@ Data 612: Data Mining
 
 | Assignment #  | Topics Covered                                  | Link  |
 | ------------- |-------------                                    | -----:|
-| 01            | While loops, for loops                          | $1600 |
+| 01            | While loops, for loops                          | [Assignment 01](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2001%20-%20Briskey.ipynb)|
 | 02            | Dataframe basics, head, tail, groupby           |   $12 |
 | 03            | Converting types, adding columns                |    $1 |
 | 04            | Data visualization, Seaborn plots               |    $1 |
