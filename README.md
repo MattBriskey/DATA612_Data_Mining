@@ -18,8 +18,12 @@ Data 612: Data Mining
   * Test
 
 
-| Assignment #  | Topics Covered                          | Link  |
-| ------------- |-------------                            | -----:|
-| 01            | While loops, for loops                  | $1600 |
-| 02            | Dataframe basics, .head, .tail, groupby |   $12 |
-| 03            | Converting types, adding columns        |    $1 |
+| Assignment #  | Topics Covered                                  | Link  |
+| ------------- |-------------                                    | -----:|
+| 01            | While loops, for loops                          | $1600 |
+| 02            | Dataframe basics, head, tail, groupby           |   $12 |
+| 03            | Converting types, adding columns                |    $1 |
+| 04            | Data visualization, Seaborn plots               |    $1 |
+| 05            | Merging data, cleaning data, missing values     |    $1 |
+| 06            | Converting types                                |    $1 |
+| 07            | Regex, apply method                             |    $1 |
