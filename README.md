@@ -18,7 +18,7 @@ Data 612: Data Mining
   * Test
 
 
-| Assignment #        | Are           | Cool  |
+| Assignment #  | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
