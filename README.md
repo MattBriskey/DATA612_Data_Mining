@@ -19,7 +19,7 @@ Data 612: Data Mining
 
 
 | Assignment #  | Topics Covered                          | Link  |
-| ------------- |:-------------:                          | -----:|
+| ------------- |-------------                            | -----:|
 | 01            | While loops, for loops                  | $1600 |
 | 02            | Dataframe basics, .head, .tail, groupby |   $12 |
 | 03            | Converting types, adding columns        |    $1 |
