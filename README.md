@@ -18,8 +18,8 @@ Data 612: Data Mining
   * Test
 
 
-| Assignment #  | Topics Covered          | Link  |
-| ------------- |:-------------:          | -----:|
-| col 3 is      | right-aligned           | $1600 |
-| col 2 is      | centered                |   $12 |
-| zebra stripes | are neat                |    $1 |
+| Assignment #  | Topics Covered                          | Link  |
+| ------------- |:-------------:                          | -----:|
+| 01            | While loops, for loops                  | $1600 |
+| 02            | Dataframe basics, .head, .tail, groupby |   $12 |
+| 03            | Converting types, adding columns        |    $1 |
