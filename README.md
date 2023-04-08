@@ -1,7 +1,7 @@
 # data612_data_mining
 Data 612: Data Mining
 
-![alt text](https://en.wikipedia.org/wiki/Franklin_University#/media/File:FranklinUniversitySealAsOf20180521.png "Franklin University")
+![alt text](https://github.com/MattBriskey/data612_data_mining/blob/main/Franklin%20University.png "Franklin University")
 
 ***
 
