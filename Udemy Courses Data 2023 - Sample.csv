@@ -1,29 +1,29 @@
-id,title,url, rating ,num_reviews,num_published_lectures,duration,
-567828,The Complete Python Bootcamp From Zero to Hero in Python,/course/complete-python-bootcamp/, 4.59 ,452973,155,22,
-1565838,The Complete 2023 Web Development Bootcamp,/course/the-complete-web-development-bootcamp/, 4.67 ,263152,490,65.5,
-625204,The Web Developer Bootcamp 2023,/course/the-web-developer-bootcamp/, 4.70 ,254711,616,64,
-756150,Angular - The Complete Guide (2023 Edition),/course/the-complete-guide-to-angular-2/, 4.59 ,180257,472,34.5,
-2776760,100 Days of Code: The Complete Python Pro Bootcamp for 2023,/course/100-days-of-code/, 4.70 ,177568,676,64,
-533682,Java Programming Masterclass updated to Java 17,/course/java-the-complete-java-developer-course/, 4.55 ,177184,544,103.5,
-1362070,"React - The Complete Guide (incl Hooks, React Router, Redux)",/course/react-the-complete-guide-incl-redux/, 4.61 ,176452,512,48.5,
-851712,The Complete JavaScript Course 2023: From Zero to Expert!,/course/the-complete-javascript-course/, 4.73 ,167670,320,69,
-950390,Machine Learning A-Z™: Python & R in Data Science [2023],/course/machinelearning/, 4.53 ,166138,382,42.5,
-903744,Python for Data Science and Machine Learning Bootcamp,/course/python-for-data-science-and-machine-learning-bootcamp/, 4.62 ,126984,165,25,
-1754098,The Data Science Course 2023: Complete Data Science Bootcamp,/course/the-data-science-course-complete-data-science-bootcamp/, 4.59 ,119504,517,32,
-543600,Automate the Boring Stuff with Python Programming,/course/automate/, 4.66 ,105532,51,9.5,
-258316,Complete C# Unity Game Developer 2D,/course/unitycourse/, 4.69 ,97785,140,18.5,
-629302,Learn Python Programming Masterclass,/course/python-the-complete-python-developer-course/, 4.58 ,96940,542,73,
-354176,Selenium WebDriver with Java -Basics to Advanced+Frameworks,/course/selenium-real-time-examplesinterview-questions/, 4.60 ,95325,329,54,
-437398,Build Responsive Real-World Websites with HTML and CSS,/course/design-and-develop-a-killer-website-with-html5-and-css3/, 4.77 ,90437,151,37.5,
-1778502,iOS & Swift - The Complete iOS App Development Bootcamp,/course/ios-13-app-development-bootcamp/, 4.75 ,83103,542,60.5,
-705264,Modern React with Redux [2023 Update],/course/react-redux/, 4.69 ,80153,409,37.5,
-1187016,The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert,/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/, 4.64 ,78175,652,37.5,
-764164,The Complete Web Developer Course 3.0,/course/the-complete-web-developer-course-2/, 4.48 ,70931,222,31,
-922484,The Complete Node.js Developer Course (3rd Edition),/course/the-complete-nodejs-developer-course-2/, 4.59 ,68865,177,35,
-647428,Spring & Hibernate for Beginners (includes Spring Boot),/course/spring-hibernate-tutorial/, 4.61 ,68728,569,42.5,
-657932,Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games,/course/unrealcourse/, 4.71 ,63232,210,29.5,
-692188,The Python Mega Course: Learn Python in 50 Days with 20 Apps,/course/the-python-mega-course/, 4.68 ,60871,402,44.5,
-382002,C# Basics for Beginners: Learn C# Fundamentals by Coding,/course/csharp-tutorial-for-beginners/, 4.48 ,60248,87,5.5,
-1430746,The Complete Web Developer in 2023: Zero to Mastery,/course/the-complete-web-developer-zero-to-mastery/, 4.66 ,59632,402,38.5,
-1708340,Flutter & Dart - The Complete Guide [2023 Edition],/course/learn-flutter-dart-to-build-ios-android-apps/, 4.55 ,58275,379,42.5,
-995016,Vue - The Complete Guide (incl. Router & Composition API),/course/vuejs-2-the-complete-guide/, 4.74 ,57968,330,32,
+id,title,url, rating ,num_reviews,num_published_lectures,duration
+567828,The Complete Python Bootcamp From Zero to Hero in Python,/course/complete-python-bootcamp/,4.59,452973,155,22
+1565838,The Complete 2023 Web Development Bootcamp,/course/the-complete-web-development-bootcamp/,4.67,263152,490,65.5
+625204,The Web Developer Bootcamp 2023,/course/the-web-developer-bootcamp/,4.7,254711,616,64
+756150,Angular - The Complete Guide (2023 Edition),/course/the-complete-guide-to-angular-2/,4.59,180257,472,34.5
+2776760,100 Days of Code: The Complete Python Pro Bootcamp for 2023,/course/100-days-of-code/,4.7,177568,676,64
+533682,Java Programming Masterclass updated to Java 17,/course/java-the-complete-java-developer-course/,4.55,177184,544,103.5
+1362070,"React - The Complete Guide (incl Hooks, React Router, Redux)",/course/react-the-complete-guide-incl-redux/,4.61,176452,512,48.5
+851712,The Complete JavaScript Course 2023: From Zero to Expert!,/course/the-complete-javascript-course/,4.73,167670,320,69
+950390,Machine Learning A-Z™: Python & R in Data Science [2023],/course/machinelearning/,4.53,166138,382,42.5
+903744,Python for Data Science and Machine Learning Bootcamp,/course/python-for-data-science-and-machine-learning-bootcamp/,4.62,126984,165,25
+1754098,The Data Science Course 2023: Complete Data Science Bootcamp,/course/the-data-science-course-complete-data-science-bootcamp/,4.59,119504,517,32
+543600,Automate the Boring Stuff with Python Programming,/course/automate/,4.66,105532,51,9.5
+258316,Complete C# Unity Game Developer 2D,/course/unitycourse/,4.69,97785,140,18.5
+629302,Learn Python Programming Masterclass,/course/python-the-complete-python-developer-course/,4.58,96940,542,73
+354176,Selenium WebDriver with Java -Basics to Advanced+Frameworks,/course/selenium-real-time-examplesinterview-questions/,4.6,95325,329,54
+437398,Build Responsive Real-World Websites with HTML and CSS,/course/design-and-develop-a-killer-website-with-html5-and-css3/,4.77,90437,151,37.5
+1778502,iOS & Swift - The Complete iOS App Development Bootcamp,/course/ios-13-app-development-bootcamp/,4.75,83103,542,60.5
+705264,Modern React with Redux [2023 Update],/course/react-redux/,4.69,80153,409,37.5
+1187016,The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert,/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/,4.64,78175,652,37.5
+764164,The Complete Web Developer Course 3.0,/course/the-complete-web-developer-course-2/,4.48,70931,222,31
+922484,The Complete Node.js Developer Course (3rd Edition),/course/the-complete-nodejs-developer-course-2/,4.59,68865,177,35
+647428,Spring & Hibernate for Beginners (includes Spring Boot),/course/spring-hibernate-tutorial/,4.61,68728,569,42.5
+657932,Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games,/course/unrealcourse/,4.71,63232,210,29.5
+692188,The Python Mega Course: Learn Python in 50 Days with 20 Apps,/course/the-python-mega-course/,4.68,60871,402,44.5
+382002,C# Basics for Beginners: Learn C# Fundamentals by Coding,/course/csharp-tutorial-for-beginners/,4.48,60248,87,5.5
+1430746,The Complete Web Developer in 2023: Zero to Mastery,/course/the-complete-web-developer-zero-to-mastery/,4.66,59632,402,38.5
+1708340,Flutter & Dart - The Complete Guide [2023 Edition],/course/learn-flutter-dart-to-build-ios-android-apps/,4.55,58275,379,42.5
+995016,Vue - The Complete Guide (incl. Router & Composition API),/course/vuejs-2-the-complete-guide/,4.74,57968,330,32
