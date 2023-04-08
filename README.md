@@ -16,3 +16,10 @@ Data 612: Data Mining
   * Test
 * [Assignment 07](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2007%20-%20Briskey.ipynb)
   * Test
+
+
+| Assignment #        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
