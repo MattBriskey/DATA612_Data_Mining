@@ -1,11 +1,15 @@
 # data612_data_mining
 **Data 612: Data Mining**
 
-<img src="https://github.com/MattBriskey/data612_data_mining/blob/main/Franklin%20University.png" alt="Franklin University" width="150" height="150">
+<a href="https://www.google.com"><img src="https://github.com/MattBriskey/data612_data_mining/blob/main/Franklin%20University.png" alt="Franklin University" width="150" height="150">
 
 ***
 
-This repository includes assignments completed for Franklin University's DATA 612: Data Mining class.  This course explores the methods of analytics computing and the procedures for diagnostic and predictive analytics. Topics include data manipulation, clustering algorithms, and regression methods using programming techniques.
+This repository includes assignments completed for Franklin University's DATA 612: Data Mining class.  This course explores the methods of analytics computing and the procedures for diagnostic and predictive analytics. Topics include data manipulation, clustering algorithms, and regression methods using programming techniques.  The textbook for the course is Pandas for Everyone: Python Data Analysis, pictured below:
+
+<img src="https://github.com/MattBriskey/data612_data_mining/blob/main/Pandas%20for%20Everyone.jpg" alt="Franklin University" width="150" height="150">
+
+[![image alt text](image URL link)](anchor link)
 
 ***
 
