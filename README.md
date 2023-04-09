@@ -7,10 +7,7 @@
 
 This repository includes assignments completed for Franklin University's DATA 612: Data Mining class.  This course explores the methods of analytics computing and the procedures for diagnostic and predictive analytics. Topics include data manipulation, clustering algorithms, and regression methods using programming techniques.  The textbook for the course is Pandas for Everyone: Python Data Analysis, pictured below:
 
-
 <a href="https://www.amazon.com/Pandas-Everyone-Analysis-Addison-Wesley-Analytics-ebook/dp/B0789WKTKJ"><img src="https://github.com/MattBriskey/data612_data_mining/blob/main/Pandas%20for%20Everyone.jpg" alt="Franklin University" width="150" height="150">
-
-[![image alt text](image URL link)](anchor link)
 
 ***
 
