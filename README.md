@@ -1,7 +1,7 @@
 # data612_data_mining
 **Data 612: Data Mining**
 
-<a href="https://www.google.com"><img src="https://github.com/MattBriskey/data612_data_mining/blob/main/Franklin%20University.png" alt="Franklin University" width="150" height="150">
+<a href="https://www.https://www.franklin.edu/degrees/masters/data-analytics"><img src="https://github.com/MattBriskey/data612_data_mining/blob/main/Franklin%20University.png" alt="Franklin University" width="150" height="150">
 
 ***
 
