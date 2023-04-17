@@ -27,4 +27,4 @@ This repository includes assignments completed for Franklin University's DATA 61
 ## My Favorites
   
 [<img alt="Assignment 04" width="500px" src="https://github.com/MattBriskey/data612_data_mining/blob/main/Histogram.png" />](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2004%20-%20Briskey.ipynb) [<img alt="Assignment 04" width="500px" src="https://github.com/MattBriskey/data612_data_mining/blob/main/Hexbin%20Joint%20Plot.png" />](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2004%20-%20Briskey.ipynb) 
-[<img alt="Regex" width="500px" src="https://github.com/MattBriskey/data612_data_mining/blob/main/Regex.png" />](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2007%20-%20Briskey.ipynb)
+[<img alt="Regex" width="1000px" src="https://github.com/MattBriskey/data612_data_mining/blob/main/Regex.png" />](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2007%20-%20Briskey.ipynb)
