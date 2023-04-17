@@ -20,7 +20,7 @@ This repository includes assignments completed for Franklin University's DATA 61
 | 05            | Merging data, cleaning data, missing values     |    [Assignment 05](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2005%20-%20Briskey.ipynb) |
 | 06            | Converting types                                |    [Assignment 06](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2006%20-%20Briskey.ipynb) |
 | 07            | Regex, apply method                             |    [Assignment 07](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2007%20-%20Briskey.ipynb) |
-
+| 08            | Custom functions, groupby                             |    [Assignment 08](https://github.com/MattBriskey/data612_data_mining/blob/main/Assignment%2008%20-%20Briskey.ipynb) |
 
 ***
 
